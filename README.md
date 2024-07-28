@@ -1,10 +1,19 @@
 ![1](https://github.com/user-attachments/assets/2c1046d4-7d38-43fa-9d47-00a0fc7f479f)
 
 
+Full-stack web application using the MERN stack (MongoDB, Express.js, React.js, Node.js) to manage user orders and display them with images.
+
+
 ![2](https://github.com/user-attachments/assets/822ca478-bfd8-47ae-b0bd-644e0e419008)
 
 
+Implemented user authentication, enabling users to log in and view their personalized order history.
+
+
 ![3](https://github.com/user-attachments/assets/d0f23f62-2b35-4879-b810-66d325e6814c)
+
+
+Integrated RESTful APIs for order management, ensuring seamless data retrieval and storage between the frontend and backend.
 
 
 ![4](https://github.com/user-attachments/assets/557e8e1b-fe26-46a4-b25e-e0b0830be252)
